@@ -7,3 +7,5 @@ Built with:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+*code is in emyun-patch-1 branch. thank you!
